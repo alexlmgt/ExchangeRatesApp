@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exchange Rates App</string>
+    <string name="Hello_app">Курс Валют</string>
+    <string name="btn_run">Показать Курс валют</string>
+    <string name="error_message">Произошла ошибка!</string>
+
+</resources>
